@@ -1,0 +1,32 @@
+
+<body>
+
+<h1 style="background-color:DodgerBlue;">Our Services</h1>
+
+<ol>
+ 
+<h1 style="background-color:DodgerBlue;">Money transfer</h1>
+  <li>OTC items</li>
+  <li>Halal vitamins</li>
+  <li>Beaty supplies</li>
+  <li>Fax, copy, scanning</li>
+</ol> 
+
+<form action="#">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" value=""><br>
+  <label for="email">Email:</label><br>
+  <input type="text" id="email" name="email" value=""><br>
+  <label for="phone">Phone:</label><br>
+  <input type="tel" id="phone" name="phone" value=""><br>
+  <label for="lname">Date of birth:</label><br>
+  <input type="text" id="dob" name="dob" value=""><br>
+  <label for="cmnt">Comments:</label><br>
+  <textarea id="cmnt" name="cmnt" ></textarea><br><br>
+  <input type="button" value="Submit">
+</form> 
+<h1 style="background-color:DodgerBlue;">Please submit this form. Our representative will inform you when your medicine will ready. Thank you</h1>
+
+
+</body>
+</html>
